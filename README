@@ -1,0 +1,12 @@
+
+
+We provide a c++ version of low-light enhancement technology.
+
+Everyone can use it, and stars is necessary.
+
+### Related Publications:
+[LIME]  X. Guo, Y. Li and H. Ling, "LIME: Low-Light Image Enhancement via Illumination Map Estimation," in IEEE Transactions on Image Processing, vol. 26, no. 2, pp. 982-993, Feb. 2017. **[paper](https://ieeexplore.ieee.org/document/7782813)**.
+
+
+![image_raw](https://github.com/zj611/LIME_Processing/test/data/3.png)
+![image_lime](https://github.com/zj611/LIME_Processing/test/data/3_lime.png)

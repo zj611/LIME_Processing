@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11 -O3 -O3 -DNDEBUG  -shared -Wl,-soname,libfeature.so -o ../../lib/libfeature.so CMakeFiles/feature.dir/lime.cpp.o 
