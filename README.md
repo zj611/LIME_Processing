@@ -6,7 +6,7 @@ Everyone can use it, and stars are necessary.
 
 ### Related Publications
 
-* **[LIME](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8260906&isnumber=8214927)**, in IEEE Transactions on Image Processing, vol. 26, no. 2, pp. 982-993, Feb. 2017.
+* **[LIME](https://ieeexplore.ieee.org/document/7782813/)**, X. Guo, Y. Li and H. Ling, "LIME: Low-Light Image Enhancement via Illumination Map Estimation," in IEEE Transactions on Image Processing, vol. 26, no. 2, pp. 982-993, Feb. 2017.
 
 
 ### Example
