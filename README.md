@@ -2,7 +2,7 @@
 
 We provide a c++ version of low-light enhancement technology, which is helpful for vSLAM and line dect,etc.
 
-Everyone can use it, and stars is necessary.
+Everyone can use it, and stars are necessary.
 
 ### Related Publications
 
@@ -26,12 +26,10 @@ mkdir build
 cd build 
 cmake ..
 make
-
 ```
 run the project 
 ```
 cd ../bin
 ./LIME
-
 ```
 
